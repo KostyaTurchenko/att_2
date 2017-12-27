@@ -1,0 +1,12 @@
+D:\Programing\attestation_2\7.2.58\bin\Debug\7.2.58.exe.config
+D:\Programing\attestation_2\7.2.58\bin\Debug\7.2.58.exe
+D:\Programing\attestation_2\7.2.58\bin\Debug\7.2.58.pdb
+D:\Programing\attestation_2\7.2.58\bin\Debug\BL.dll
+D:\Programing\attestation_2\7.2.58\bin\Debug\BL.pdb
+D:\Programing\attestation_2\7.2.58\obj\Debug\7.2.58.csprojResolveAssemblyReference.cache
+D:\Programing\attestation_2\7.2.58\obj\Debug\_7._2._58.Form1.resources
+D:\Programing\attestation_2\7.2.58\obj\Debug\_7._2._58.Properties.Resources.resources
+D:\Programing\attestation_2\7.2.58\obj\Debug\7.2.58.csproj.GenerateResource.Cache
+D:\Programing\attestation_2\7.2.58\obj\Debug\7.2.58.csproj.CoreCompileInputs.cache
+D:\Programing\attestation_2\7.2.58\obj\Debug\7.2.58.exe
+D:\Programing\attestation_2\7.2.58\obj\Debug\7.2.58.pdb

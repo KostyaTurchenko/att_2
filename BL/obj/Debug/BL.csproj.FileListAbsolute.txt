@@ -1,0 +1,6 @@
+D:\Programing\attestation_2\BL\bin\Debug\BL.dll
+D:\Programing\attestation_2\BL\bin\Debug\BL.pdb
+D:\Programing\attestation_2\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Programing\attestation_2\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Programing\attestation_2\BL\obj\Debug\BL.dll
+D:\Programing\attestation_2\BL\obj\Debug\BL.pdb
