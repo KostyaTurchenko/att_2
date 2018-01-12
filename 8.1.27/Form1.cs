@@ -26,11 +26,11 @@ namespace _8._1._27
         private void button1_Click(object sender, EventArgs e)
         {
             var list1 = new List<int>();
-            var list2 = new List<int>();
-            int n = (int)numericUpDown1.Value;
-            ChangeList instance = new ChangeList(n);           
-            list1 = instance.List1generation(n);
-            list2 = instance.List2generation(n);
+            var list2 = new List<int>();            
+            ChangeList instance = new ChangeList();           
+            list1 = instance.Listgeneration((int)numericUpDown1.Value);
+            System.Threading.Thread.Sleep(50);
+            list2 = instance.Listgeneration((int)numericUpDown1.Value);
             var list3 = instance.CreateNewList(list1, list2);
             label1.Text = string.Join(", ", list1);
             label2.Text = string.Join(", ", list2);
@@ -43,6 +43,11 @@ namespace _8._1._27
         }
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void numericUpDown2_ValueChanged(object sender, EventArgs e)
         {
 
         }

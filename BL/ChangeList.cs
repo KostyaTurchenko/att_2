@@ -9,8 +9,7 @@ namespace BL
     public class ChangeList
     {
 
-        private int l;
-        public int L { get; set; }
+        
 
         public List<int> CreateNewList(IList<int> list1, IList<int> list2)
         {
@@ -30,7 +29,7 @@ namespace BL
             return outputlist;
         }
         
-        public List<int> List1generation(int L)
+        public List<int> Listgeneration(int L)
         {
             var outlist = new List<int>();
             Random rand = new Random();
@@ -40,16 +39,7 @@ namespace BL
             }
             return outlist;
         }
-        public List<int> List2generation(int L)
-        {
-            var outlist = new List<int>();
-            Random rand = new Random();
-            for (int i = 0; i < L; i++)
-            {
-                outlist.Add(rand.Next(0, 50));
-            }
-            return outlist;
-        }
+        
 
 
         private bool Сheckforparity (int count)
@@ -58,10 +48,7 @@ namespace BL
             return z;
                      
         }
-        public ChangeList (int count)
-        {
-            count = L;
-        }
+        
 
         
 
